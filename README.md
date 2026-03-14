@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**URL**: windows-xp-portfolio-weld.vercel.app
 
 **Used VS code**
 
